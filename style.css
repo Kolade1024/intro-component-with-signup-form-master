@@ -9,7 +9,7 @@
 
 body{
     min-height: 100vh;
-    background-image: url("/intro-component-with-signup-form-master/images/bg-intro-mobile.png");
+    background-image: url("/images/bg-intro-mobile.png");
 }
 
 .container{
